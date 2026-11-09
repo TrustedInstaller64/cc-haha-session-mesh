@@ -1,0 +1,14 @@
+.build/
+.swiftpm/
+DerivedData/
+.claude/settings.local.json
+.claude/skills/
+state/
+logs/
+*.jsonl
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
+*.bak-*
+.DS_Store

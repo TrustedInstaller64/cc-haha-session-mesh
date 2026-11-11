@@ -147,7 +147,14 @@ docs/                      规划、实测、发布清单
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)：组件与数据流。
 - [SECURITY.md](SECURITY.md)：安全边界。
 - [RELEASE_NOTES.md](RELEASE_NOTES.md)：发布说明。
+- [NOTICE](NOTICE)：cc-haha 许可与来源说明。
 - [LICENSE](LICENSE)：MIT。
+
+## 兼容性与许可
+
+本项目是 cc-haha 的独立工具，与 cc-haha 维护者无隶属关系，也未获得其背书；仓库不包含、也不再分发 cc-haha 的源码、二进制或资源。cc-haha 本身使用 cc-haha Community Source License 1.0，这是自定义的源码可用许可，不是 OSI 开源许可。将本项目与 cc-haha 一起使用时，你需要自行遵守 cc-haha 的许可条款，包括商业使用限制。本仓库的 MIT 许可证只覆盖本仓库代码。
+
+见 [NOTICE](NOTICE) 与 [cc-haha 许可证](https://github.com/NanmiCoder/cc-haha/blob/main/LICENSE)。
 
 ## 许可证
 

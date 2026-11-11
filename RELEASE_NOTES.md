@@ -42,7 +42,7 @@ swift build -c release
 
 ### 许可证
 
-MIT。见仓库根目录 `LICENSE`。
+MIT。见仓库根目录 `LICENSE`。本项目是独立工具，不包含 cc-haha 代码；cc-haha 自身许可与商业使用限制见 `NOTICE`。
 
 ## English
 
@@ -84,4 +84,4 @@ Open `/hooks` once, or start a new session in the repo, so already-open sessions
 
 ### License
 
-MIT. See `LICENSE` at the repository root.
+MIT. See `LICENSE` at the repository root. This project is an independent tool and does not include cc-haha code; cc-haha's own license and commercial-use terms are in `NOTICE`.

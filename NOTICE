@@ -1,0 +1,22 @@
+NOTICE
+
+This repository is an independent interoperability tool for cc-haha.
+It is not affiliated with, endorsed by, or sponsored by cc-haha or its
+maintainers.
+
+This repository does not include or redistribute cc-haha source code,
+binaries, or assets. It interacts with a locally installed cc-haha instance
+through its local API and files.
+
+cc-haha is distributed under the cc-haha Community Source License 1.0, a
+custom source-available license, not an OSI-approved open-source license:
+
+https://github.com/NanmiCoder/cc-haha/blob/main/LICENSE
+
+Using cc-haha, including through this tool, remains subject to cc-haha's
+license, including its noncommercial and commercial-use terms. The MIT
+license in this repository applies only to the code in this repository and
+does not grant any rights to cc-haha.
+
+"cc-haha" and related names belong to their respective owners. This project
+uses the name only to describe compatibility.

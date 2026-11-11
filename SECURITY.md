@@ -60,7 +60,8 @@ Phase 4 已在本机实测；本文记录当前实现的安全边界、数据访
 
 ## 许可证与仓库
 
-- 许可证：MIT，见 `LICENSE`。零第三方依赖，无第三方 notice 需要汇总。
+- 本仓库许可证：MIT，见 `LICENSE`。零第三方依赖，无第三方 notice 需要汇总。
+- 本项目是 cc-haha 的独立互操作工具，不包含 cc-haha 代码；cc-haha 自身使用 cc-haha Community Source License 1.0，见 `NOTICE`。
 
 ## 报告问题
 

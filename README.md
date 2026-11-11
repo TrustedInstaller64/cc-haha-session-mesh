@@ -147,7 +147,14 @@ Run `swift test` before sending a change. Keep hook paths fail-open, do not comm
 - [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md): components and data flow.
 - [SECURITY.md](SECURITY.md): security boundaries.
 - [RELEASE_NOTES.md](RELEASE_NOTES.md): release notes.
+- [NOTICE](NOTICE): cc-haha license and attribution.
 - [LICENSE](LICENSE): MIT.
+
+## Compatibility and license
+
+This is an independent tool for cc-haha. It is not affiliated with or endorsed by cc-haha, and it does not include or redistribute cc-haha code. cc-haha itself is available under the cc-haha Community Source License 1.0, a custom source-available license. If you use this tool with cc-haha, you are responsible for complying with cc-haha's license, including its commercial-use terms. The MIT license in this repository covers this repository's code only.
+
+See [NOTICE](NOTICE) and the [cc-haha license](https://github.com/NanmiCoder/cc-haha/blob/main/LICENSE).
 
 ## License
 
